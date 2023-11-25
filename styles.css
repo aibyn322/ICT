@@ -1,0 +1,120 @@
+body {
+    display: flex;
+    background: linear-gradient(to bottom, #555, #323232);;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+
+}
+h1{
+    background-image: url("https://cdn.vox-cdn.com/thumbor/imHfTge5mfPqRaWcIyoP--Zlxp4=/0x0:5792x3854/1200x800/filters:focal(2433x1464:3359x2390)/cdn.vox-cdn.com/uploads/chorus_image/image/70792406/1238367474.0.jpg");
+    background-size: 25%;
+    background-repeat: no-repeat;
+    background-color: rgb(10, 10, 10);
+    background-position: 50% 50%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 30px;
+    margin: 30px;
+    width: 1500px;
+    height: 200px;
+    font-size: 30px;
+    font-family: Helvetica, Arial, sans-serif;}
+h2{
+    background-color: white;
+    color: black;
+    padding: 20px;
+    text-align: left;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 15px;
+    padding: 30px;
+    margin: 30px;
+    width: 1200px;
+    height: 50px;
+    font-size: 50px;}
+h3{
+    background-color: white;
+    color: black;
+    padding: 20px;
+    text-align: left;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 15px;
+    padding: 30px;
+    margin: 30px;
+    width: 1200px;
+    height: 50px;
+    font-size: 50px;}
+h4{
+    background-color: white;
+    color: black;
+    padding: 20px;
+    text-align: left;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 15px;
+    padding: 30px;
+    margin: 30px;
+    width: 1200px;
+    height: 50px;
+    font-size: 50px;}
+    h5{
+        background-color: white;
+        color: black;
+        padding: 20px;
+        text-align: left;
+        border-style: solid;
+        border-width: 5px;
+        border-radius: 15px;
+        padding: 30px;
+        margin: 30px;
+        width: 1200px;
+        height: 50px;
+        font-size: 50px;}      
+ul{
+    background-color: white;
+    color: black;
+    padding: 20px;
+    text-align: left;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 15px;
+    padding: 30px;
+    margin: 30px;
+    width: 1200px;
+    height: 50px;
+    font-size: 20px;}
+    #ol2{
+        background-color: white;
+        color: black;
+        padding: 20px;
+        text-align: left;
+        border-style: solid;
+        border-width: 5px;
+        border-radius: 15px;
+        padding: 30px;
+        margin: 30px;
+        width: 1200px;
+        height: 70px;
+        font-size: 17px;}         
+
+p{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    text-align: left;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 15px;
+    padding: 30px;
+    margin: 30px;
+    width: 1200px;
+    height: 65px;
+    font-size: 20px;}    
+table{
+    background-color: white;
+    color: black;
+    padding: 20px;
+    text-align: center;}
